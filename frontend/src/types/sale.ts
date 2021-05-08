@@ -10,9 +10,9 @@ export type Sale = {
 }
 
 export type SalePage = {
-    content?: Sale[]
+    content?: Sale[];
     last: boolean;
-    totalPages?: number;
+    totalPages: number;
     totalElements: number;
     size?: number;
     number: number;
