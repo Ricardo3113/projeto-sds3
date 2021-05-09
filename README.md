@@ -1,4 +1,4 @@
-#   ![image](https://user-images.githubusercontent.com/72181931/117579742-9edb8100-b0ca-11eb-8c89-fec75d6704fe.png) Projeto-DsVendas-sds3
+#   ![image](https://user-images.githubusercontent.com/72181931/117579742-9edb8100-b0ca-11eb-8c89-fec75d6704fe.png) Projeto-DSVendas-sds3
 
 Aplicativo desenvolvido durante o evento Semana Spring React da DevSuperior.
 
