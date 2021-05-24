@@ -11,3 +11,13 @@ PostGreSQL e banco H2 gerenciados pelo pgAdmin, teste de aplicação em API Post
 
 Frontend desenvolvido no ReactJS, com implantação de Bootstrap e CSS para mainupulação dos dados em web.
 Postman para testes de requisição e publicação no Netlify CLI.
+
+Abaixo seguem imagens da aplicação.
+
+Página inicial
+![home](https://user-images.githubusercontent.com/72181931/119281339-c32b7780-bc0b-11eb-899d-0b3140ce193a.png)
+
+
+
+Dashboard
+![dashboard](https://user-images.githubusercontent.com/72181931/119281370-e22a0980-bc0b-11eb-9804-1bd254ddb5bc.png)
